@@ -1,7 +1,7 @@
 <img src="laptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Workspace">
 
 <p align="left">
-  <strong>Hello friend!</strong>, my name is Thiago Tomé and I'm <strong>FullStack developer</strong>focusing on JS and Py world technologies, with a strong focus on new technologies and market leaders.
+  <strong>Hello friend!</strong>, my name is Thiago Tomé and I'm <strong>FullStack developer</strong> focusing on JS and Py world technologies, with a strong focus on new technologies and market leaders.
 </p>
 
 <p align="left">
