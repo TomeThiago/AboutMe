@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>Javascript, Python, NodeJS, Delphi, Java, React JS, React Native, HTML5, CSS, Bootstrap, Materialize, Material UI.</strong>
+  🚀 Skills: <strong>Javascript, TypeScript, Python, NodeJS, Delphi, Java, React JS, React Native, HTML5, CSS, Bootstrap, Materialize, Material UI.</strong>
 </p>
 
 <p align="left">
-  🌈 Currently studying: <strong>TypeScript, SpringBoot and AWS.</strong>
+  🌈 Currently studying: <strong>Google Cloud, UI/UX Design, SpringBoot and AWS.</strong>
 </p>
 
 <p align="left">
-  🔥 Intends to learn: <strong>Vue.JS, Deno, Next JS, Google Cloud, UI/UX Design.</strong>
+  🔥 Intends to learn: <strong>Vue.JS, Deno, Next JS.</strong>
 </p>
 
 <p align="left">
