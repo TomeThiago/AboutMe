@@ -33,3 +33,6 @@
 <a href="https://www.facebook.com/thiago.tome10/" alt="Facebook">
 <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/thiago.tome10/"/></a>
 </p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomethiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomethiago&layout=compact&langs_count=7&theme=dracula"/>
