@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/thiago-tom%C3%A9-silva-b76b8a174/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-tom%C3%A9-silva-b76b8a174/" /></a>
   
-<a href="https://api.whatsapp.com/send?phone=5519997052557&text=Hi%20Thiago,%20how%20are%20you?" alt="WhatsApp">
+<a href="https://api.whatsapp.com/send?phone=5519971218166&text=Hi%20Thiago,%20how%20are%20you?" alt="WhatsApp">
 <img src="https://img.shields.io/badge/-WhatsApp-00FA9A?style=flat-square&labelColor=00FA9A&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519997052557&text=Hi%20Thiago,%20how%20are%20you?"/></a>
 
 <a href="https://www.facebook.com/thiago.tome10/" alt="Facebook">
