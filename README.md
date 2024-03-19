@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>Javascript, TypeScript, Python, NodeJS, Delphi, Java, React JS, React Native, HTML5, CSS, Bootstrap, Materialize, Material UI.</strong>
+  🚀 Skills: <strong>Javascript, TypeScript, Python, NodeJS, Delphi, Java, React JS, React Native, Next JS, HTML5, CSS, Bootstrap, Materialize, Material UI.</strong>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🔥 Intends to learn: <strong>Vue.JS, Deno, Next JS.</strong>
+  🔥 Intends to learn: <strong>Vue.JS, Deno, Golang, Angular.</strong>
 </p>
 
 <p align="left">
